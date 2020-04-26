@@ -7,3 +7,4 @@ Requirements:
 5) Have ability to turn on for 5 mins facade ligh if time > 00:00 and not sunrise with a pulse from gate motor controller
 
 ![image](https://github.com/makcuk/logostuff/blob/master/workshop/diagram.png?raw=true)
+![image](https://github.com/makcuk/logostuff/blob/master/workshop/web_view.png?raw=true)
